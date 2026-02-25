@@ -1,0 +1,6 @@
+notification_id,user_id,channel,message,sent_at
+N-4000,U1,BiP,Kazanım: C-05 tamamlandı. +200 puan.,2026-03-12T20:30:00Z
+N-4001,U2,BiP,Kazanım: C-05 tamamlandı. +200 puan.,2026-03-12T20:27:00Z
+N-4002,U3,BiP,Kazanım: C-05 tamamlandı. +200 puan.,2026-03-12T20:24:00Z
+N-4003,U4,BiP,Kazanım: C-02 tamamlandı. +120 puan.,2026-03-12T20:21:00Z
+N-4004,U5,BiP,Kazanım: C-04 tamamlandı. +100 puan.,2026-03-12T20:18:00Z

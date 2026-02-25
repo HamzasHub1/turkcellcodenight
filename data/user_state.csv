@@ -1,0 +1,6 @@
+user_id,name,city,segment,listen_minutes_today,unique_tracks_today,playlist_additions_today,shares_today,listen_minutes_7d,shares_7d,unique_tracks_7d,listen_streak_days,total_points
+U1,Ayşe,Istanbul,STUDENT,152,15,11,0,612,5,67,5,200
+U2,Ali,Ankara,STUDENT,147,6,10,1,452,10,49,3,200
+U3,Deniz,Izmir,STUDENT,89,9,1,0,456,5,59,4,200
+U4,Mert,Bursa,YOUNG_PRO,78,14,1,0,365,6,46,1,120
+U5,Ece,Antalya,YOUNG_PRO,20,6,2,2,411,7,43,1,100

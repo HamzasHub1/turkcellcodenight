@@ -1,0 +1,8 @@
+challenge_id,challenge_name,challenge_type,condition,reward_points,priority,is_active
+C-01,Günlük Dinleme,DAILY,listen_minutes_today >= 30,60,5,True
+C-02,Keşifçi,DAILY,unique_tracks_today >= 10,120,3,True
+C-03,Playlist Ustası,DAILY,playlist_additions_today >= 8,140,2,True
+C-04,Paylaşım Bonus,DAILY,shares_today >= 2,100,4,True
+C-05,Streak Serisi,STREAK,listen_streak_days >= 3,200,1,True
+C-06,Haftalık Binge,WEEKLY,listen_minutes_7d >= 500,350,6,True
+C-07,Kupon Avcısı,WEEKLY,shares_7d >= 6,180,7,True

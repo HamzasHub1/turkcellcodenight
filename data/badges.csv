@@ -1,0 +1,4 @@
+badge_id,badge_name,condition,level
+B-01,Bronz Dinleyici,total_points >= 250,1
+B-02,Gümüş Dinleyici,total_points >= 700,2
+B-03,Altın Dinleyici,total_points >= 1200,3
